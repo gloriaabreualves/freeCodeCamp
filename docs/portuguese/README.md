@@ -14,9 +14,9 @@
 
 Olá 👋!
 
-Este directório contem toda a documentação sobre como contribuir para o freeCodeCamp.org
+Este diretório contém toda a documentação sobre como contribuir para o freeCodeCamp.org
 
-## [Se estás agora a começar, lê isto primeiro.](/CONTRIBUTING.md)
+## [Se começou agora, leia isto primeiro.](/CONTRIBUTING.md)
 
 ---
 
@@ -34,12 +34,12 @@ Este directório contem toda a documentação sobre como contribuir para o freeC
 
 ## Referência de comandos rápidos quando se trabalha localmente
 
-Uma rápida referência aos comandos que vais precisar, quando a trabalhar localmente.
+Uma rápida referência aos comandos que vais precisar, quando for trabalhar localmente.
 
 | comando | descrição |
 | ------- | ----------- |
 | `npm run bootstrap` | Faz <i>bootstrap</i> dos diferentes serviços |
-| `npm run seed` | Faz <i>parse</i> de todos os ficheiros de <i>challenge markdown</i> e insere-os no MongoDB. |
+| `npm run seed` | Faz <i>parse</i> de todos os arquivos de <i>challenge markdown</i> e insere-os no MongoDB. |
 | `npm run develop` | Inicia o API Server do freeCodeCamp e Apps Cliente. |
 | `npm test` |  Corre todos os testes JS no sistema, incluindo cliente, servidor, <i>lint</i> e testes de desafio. |
 | `npm run test:client` | Corre o <i>test suite</i>  do cliente. |
