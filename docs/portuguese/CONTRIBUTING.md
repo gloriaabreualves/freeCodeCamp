@@ -15,7 +15,7 @@
 
 Olá 👋!
 
-freeCodeCamp.org é possível graças a milhares de voluntários gentis como você. Somos gratos por suas contribuições e estamos felizes em te receber.
+freeCodeCamp.org é possível graças a milhares de voluntários gentis como você. Somos gratos por suas contribuições e estamos felizes em recebê-lo.
 
 Nós seguimos as diretrizes do nosso ["Código de Conduta"](https://www.freecodecamp.org/code-of-conduct). Dedique um tempo para lê-lo. Ele não é muito longo.
 
@@ -61,7 +61,7 @@ Você pode encontrar um [artigo de exemplo sobre elementos HTML aqui](./client/s
 
 **Sobre o que eu posso escrever um artigo?**
 
-Nós agradecemos sua ajuda na escrita desses artigos. Você não precisa ser um especialista em um tópico para escrever sobre isso - Todo o Guia é <i>open source</i>, então mesmo que você cometa um erro, outro contribuidor vai eventualmente corrigí-lo.
+Nós agradecemos sua ajuda na escrita desses artigos. Você não precisa ser um especialista em um tópico para escrever sobre isso - Todo o Guia é <i>open source</i>, então mesmo que você cometa um erro, outro contribuidor vai eventualmente corrigi-lo.
 
 Para ajudar, encontre um `artigo provisório` na [página de Guias](https://www.freecodecamp.org/guide), escreva o artigo, e então abra um <i>pull request</i> para substituir o provisório pelo seu artigo. Um [<i>pull request</i>](https://help.github.com/articles/about-pull-requests/) é a forma como você vai sugerir mudanças. Ele permite que outros saibam das suas mudanças, revisem-nas e as adotem.
 
@@ -151,6 +151,6 @@ Você deveria passar pelas <i>issues</i> de **`Help Wanted`** (Ajuda necessária
 
 Se essas <i>issues</i> possuem falta de clareza do que deve ser feito, sinta-se livre para tirar suas dúvidas nos comentários.
 
-**Encontrei um erro de escrita, eu devo reportar antes de criar um <i>pull request</i>?**
+**Encontrei um erro de escrita, devo reportar antes de criar um <i>pull request</i>?**
 
 Você pode criar diretamente um <i>pull request</i> sem ter de reportar uma <i>issue</i> em casos de erros de escrita ou pequenas mudanças de palavreado. <i>Issues</i> são ferramentas para buscar confirmação em mudanças que você gostaria de propor por meio de um <i>pull request</i>.
